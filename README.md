@@ -13,7 +13,7 @@ Source code and dataset for [EMNLP 2018](http://emnlp2018.org) paper: [AD3: Atte
 
 ### Dataset:
 
-* We evaluate AD3 on NYT and APW section of [Gigaword Corpus, 5th ed](https://catalog.ldc.upenn.edu/ldc2011t07). For preprocessing refer [NeuralDater](https://github.com/malllabiisc/NeuralDater).
+* We evaluate AD3 on NYT and APW section of [Gigaword Corpus, 5th ed](https://catalog.ldc.upenn.edu/ldc2011t07). For preprocessing refer [NeuralDater](https://github.com/SwayambhuNathRay/NeuralDater-ACL-2018).
 
 ### Usage:
 
