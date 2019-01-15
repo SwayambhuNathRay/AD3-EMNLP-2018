@@ -28,3 +28,7 @@ Source code and dataset for [EMNLP 2018](http://emnlp2018.org) paper: [AD3: Atte
 
   * `-class` denotes the number of classes in datasets,  `10` for NYT and `16` for APW.
   * `-name` is arbitrary name for the run.
+
+### NB:
+
+* Source code can also be found at [MALL Lab](https://github.com/malllabiisc/AD3). This is just a copy.
